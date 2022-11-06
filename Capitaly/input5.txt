@@ -1,0 +1,37 @@
+16
+Property
+Service 1500
+Service 2000
+Property
+Property
+LuckyField 500
+Property
+Property
+Service 1000
+LuckyField 300
+Property
+Property
+Property
+Property
+Service 1000
+Property
+12
+A greedy
+B greedy
+C greedy
+D tactical
+E tactical
+F tactical
+G tactical
+H tactical
+I careful
+J careful
+K careful
+L careful
+
+3 2 5 1 2 2 1 5 1 3 5 6 2 4 3 6 2 1 4 5 1 3 5 6 2 4  2 1 4 5 1 3 5 6 2 4 3 6 4 3 2 1 6 2 1 4 5 1  5 6 2 4
+ 3 6 2 1 4 5 1 3 5 6 2 4  2 4 3 2 1 6 2 1 4 5 1  53 6 4 1 2  6 2 4 3 6 4 1 2 3 6 4 1 2
+ 3 6 2 1 4 5 1 3 5 6 2 4  2 1 4 5 1 3 5  4  6 4 1 1 4 5 1 3 5  4  6 4 3 2 12 1 4 5 1 3 5 6 2 4 3 6 2 3 6 
+4 1 2 1 4 5 1  5 6 2 4 3 6 2 1 4 5 52 4  2 4 3 2 1 6  5  4  6 4 1 6 2 1 4 5 1 
+6 4 3 2 1   2 1 4 5 1 3 5 6 2 4 3 6 4 3 2 1 6 2 1 4 5 1  
+

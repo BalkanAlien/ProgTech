@@ -1,0 +1,14 @@
+4
+Property
+Service 1000
+LuckyField 500
+Property
+4
+Pavle tactical
+Slavica careful
+Mihaela careful
+Marija greedy
+3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3 3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3
+3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3
+3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3
+3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3
